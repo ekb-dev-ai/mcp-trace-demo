@@ -4,6 +4,11 @@
 
 Every MCP `tools/call` is traced from the CrewAI agent process through the MCP server subprocess (W3C trace context in `params._meta`, [SEP-414](https://modelcontextprotocol.io/seps/414-request-meta)). Visualize in **Jaeger**.
 
+
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/qCHK4QlPXh8/maxresdefault.jpg)](https://www.youtube.com/watch?v=qCHK4QlPXh8)
+
 ## Prerequisites
 
 - [Docker](https://docs.docker.com/get-docker/) (for Jaeger)
